@@ -6,9 +6,9 @@
 - 🔍 I'm interested in Full Stack Development, SaaS products, and creative UI/UX design.
 - 🌱 Currently learning advanced React.js, Next.js, and exploring AI-integrated web apps.
 - 🤝 I’m open to collaborating on impactful frontend or full-stack projects.
-- 📫 Reach me at: **shivamshailendradubey03@gmail.com**
+- 📫 Reach me at: shivamdubey72080@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I believe **"Every Day is a New Challenge"**, and I love solving real-world problems through clean and scalable code.
+- ⚡ Fun fact: I believe "Every Day is a New Challenge", and I love solving real-world problems through clean and scalable code.
 
 ## 🔗 Let's Connect
 - 💼 [Portfolio](https://shivamshailendradubey.netlify.app/)
